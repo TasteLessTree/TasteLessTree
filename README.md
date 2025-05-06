@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning Java @ high school
+📫 How to reach me: andres.perezm@iesfm.onmicrosoft.com
 
 <!--
 **TasteLessTree/TasteLessTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
