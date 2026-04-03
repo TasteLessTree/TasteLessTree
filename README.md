@@ -3,6 +3,7 @@
 🌱 I’m currently learning Java @ high school
 
 📫 How to reach me: andres.perezm@proton.me
+
 🗒️[LinkedIn](www.linkedin.com/in/andrés-pérez-6838a43a6)
 <!--
 **TasteLessTree/TasteLessTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
