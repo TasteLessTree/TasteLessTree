@@ -4,7 +4,7 @@
 
 📫 How to reach me: andres.perezm@proton.me
 
-🗒️[LinkedIn](www.linkedin.com/in/andrés-pérez-6838a43a6)
+🗒️[LinkedIn](https://www.linkedin.com/in/andrés-pérez-6838a43a6)
 
 
 <!--
